@@ -1,5 +1,4 @@
-# Encuesta sobre la pandemia de coronavirus en EE. UU.
-#Survey on the coronavirus pandemic in the US
+# Encuesta sobre la pandemia de coronavirus en EE. UU. | Survey on the coronavirus pandemic in the US
 
 Esta encuesta consta de varias preguntas relacionadas con la pandemia de COVID-19 en los Estados Unidos de América. La mayoría de las preguntas son de opción múltiple, pero algunas requerirán que escriba su respuesta. En estos casos, se prefieren descripciones detalladas, pero una sola frase debería ser suficiente.
 Esta encuestra también está disponible en inglés. Puede completar este formulario O el formulario en inglés, ya que hacen las mismas preguntas.
