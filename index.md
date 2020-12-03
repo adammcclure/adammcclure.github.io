@@ -1,6 +1,6 @@
 # amcclure.org
 
 ## Encuestra sobre la pandemia de coronavirus
-[Encuestra] sobre la pandemia de coronavirus(/covid-survey/).
+[Encuestra](/covid-survey/) sobre la pandemia de coronavirus.
 
-[Survey] on the coronavirus pandemic(/covid-survey-en/).
+[Survey](/covid-survey-en/) on the coronavirus pandemic.
