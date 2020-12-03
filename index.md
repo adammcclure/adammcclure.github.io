@@ -1,4 +1,4 @@
-# amcclure.org
+# Hola, soy adam mcclure.
 Soy un desarrolador de software de Akron, Ohio, EE. UU.
 
 ## Encuestra sobre la pandemia de coronavirus
