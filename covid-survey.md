@@ -1,3 +1,5 @@
+[Regresar a la página principal | Return to the main page](/index/).
+
 # Encuesta sobre la pandemia de coronavirus en EE. UU.
 #Survey on the coronavirus pandemic in the US
 
@@ -9,3 +11,6 @@ This survey is also available in Spanish. You can fill out this form OR the form
 
 Se publicará una copia del artículo final en este sitio web en el siguiente enlace: 
 A copy of the final article will be published on this website at the above link.
+
+
+[Regresar a la página principal | Return to the main page](/index/).
