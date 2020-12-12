@@ -2,9 +2,12 @@
 Vea esta encuesta en [español.](covid-survey)
 
 ## Information
-**Points:**  175 (See grading rubric below) 
-**Length:** 4-6 pages (double spaced, 12-point font, Times New Roman, 1 inch margins all the  way around, no spaces between paragraphs). Reference/Works Cited page not included in page count. 
-**Format:** No title page needed.  
+**Points:**  175
+
+**Length:** 4-6 pages (double spaced, 12-point font, Times New Roman, 1 inch margins all the  way around, no spaces between paragraphs). Reference/Works Cited page not included in page count
+
+**Format:** No title page needed
+
 **Sources:** 4 scholarly sources
 
 ## Description: Survey on the coronavirus pandemic in the US
