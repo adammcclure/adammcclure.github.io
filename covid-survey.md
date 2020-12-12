@@ -3,8 +3,11 @@ View this page in [English](covid-survey-en)
 
 ## Información
 **Puntos:** 175
+
 **Longitud:** 4-6 páginas (doble espacio, fuente de 12 puntos, Times New Roman, márgenes de 2,5 centimetros en todo el contorno, sin espacios entre párrafos). La página de referencias no se incluye en el recuento de páginas.
+
 **Formato:** No se necesita portada.
+
 **Fuentes:** 4 fuentes académicas
 
 ## Descripción: Encuesta sobre la pandemia de coronavirus en EE. UU.
