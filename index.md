@@ -1,5 +1,5 @@
 # Hola, soy adam mcclure.
-Soy un desarrolador de software de Akron, Ohio, EE. UU.
+Un desarrolador de software de Akron, Ohio, EE. UU.
 
 ## Encuestra sobre la pandemia de coronavirus
 [Encuestra](covid-survey) sobre la pandemia de coronavirus.
